@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CA_Project4.dir/parse.c.o CMakeFiles/CA_Project4.dir/shell.c.o  -o CA_Project4 

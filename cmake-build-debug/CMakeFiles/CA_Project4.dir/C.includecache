@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/constanine/CA-Project4/parse.c
+parse.h
+/home/constanine/CA-Project4/parse.h
+
+/home/constanine/CA-Project4/parse.h
+pwd.h
+-
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+
